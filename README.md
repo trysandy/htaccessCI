@@ -1,0 +1,1 @@
+htaccess file for Code Igniter (disappear index.php on URL)
